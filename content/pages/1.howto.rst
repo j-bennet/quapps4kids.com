@@ -1,0 +1,42 @@
+How to
+======
+
+:slug: howto
+
+**Solve2Play is developed only for Android based tablets and phones. Our
+recommendation is to install this app on an Android device that only your
+child has access to with no secure information on it.**
+
+Install
+-------
+
+* Install Solve2Play through the Google Play Store
+* Click on Solve2Play Settings
+* Enter a 4 digit PIN. This PIN will be used to lock this device and Solve2Play’s settings.
+* Enter the new 4 digit PIN again to confirm
+* Activate device administrator. Solve2Play needs permissions to set the password to lock and unlock the device. Press activate and this will take you into settings for you to configure number of problems and difficulty levels.
+
+Configure Problem Sets
+----------------------
+
+* If Enable is OFF, the device is no longer secure and you will need to reinstate security by going into settings and setting up your lock screen
+* Operator – Choose +, - , x, ÷ or all
+* Max Top Number – Choose the maximum top number, determines level of difficulty
+* Max Bottom Number – Choose the maximum bottom number, determines level of difficulty
+* Allow negative numbers – You allow a bottom number to be larger than the top number, which would allow the answer to be in the negative
+* Right to left entry option– Some are used to solving problems left to right so this gives you the option to do so.
+
+Uninstall
+---------
+
+* Press the Google Play Store
+* Go to My Apps
+* Press Solve2Play
+* Press Uninstall
+* Once the app is uninstalled, the device is no longer secure and you will need to reinstate security by going into settings and setting up your lock screen.
+
+Recall forgotten PIN
+--------------------
+
+* If the PIN is forgotten, you would need to Uninstall and Re-Install the Solve2Play app again.
+* Please see Uninstall and then Install instructions.

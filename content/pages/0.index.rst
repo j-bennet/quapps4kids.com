@@ -1,0 +1,16 @@
+Hello
+=====
+
+:slug: index
+
+
+Welcome to our universe! We are an educational studio that makes alternative
+unlocking systems for your child’s android based devices.
+
+We believe that children should have fun on their devices and what
+is a greater way to make that play time more rewarding...
+warming up their brainpower with a few educational problems.
+
+Parents get to set level of difficulty and number of problems to solve
+according to their child’s level. Once all problems are completed correctly,
+the child gains access to the rest of their device.
