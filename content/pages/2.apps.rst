@@ -3,4 +3,24 @@ Apps
 
 :slug: apps
 
-TODO
+Solve 2 Play
+------------
+
+Solve2Play is an alternative unlocking system that works with the device
+lockscreen. The child must solve a series of problems/puzzles before they are
+allowed to see the home screen.
+
+.. image:: {filename}/images/s2p-feature.png
+   :align: center
+   :alt: solve2play
+   :target: {filename}/images/math-screenshot.png
+
+.. image:: {filename}/images/twitter.png
+   :align: left
+   :alt: twitter
+   :target: https://twitter.com/quapps4kids
+
+.. image:: {filename}/images/facebook.png
+   :align: right
+   :alt: facebook
+   :target: http://www.facebook.com/Quapps

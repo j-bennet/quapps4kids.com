@@ -14,3 +14,13 @@ warming up their brainpower with a few educational problems.
 Parents get to set level of difficulty and number of problems to solve
 according to their child’s level. Once all problems are completed correctly,
 the child gains access to the rest of their device.
+
+.. image:: {filename}/images/twitter.png
+   :align: left
+   :alt: twitter
+   :target: https://twitter.com/quapps4kids
+
+.. image:: {filename}/images/facebook.png
+   :align: right
+   :alt: facebook
+   :target: http://www.facebook.com/Quapps

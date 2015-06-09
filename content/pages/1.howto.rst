@@ -40,3 +40,13 @@ Recall forgotten PIN
 
 * If the PIN is forgotten, you would need to Uninstall and Re-Install the Solve2Play app again.
 * Please see Uninstall and then Install instructions.
+
+.. image:: {filename}/images/twitter.png
+   :align: left
+   :alt: twitter
+   :target: https://twitter.com/quapps4kids
+
+.. image:: {filename}/images/facebook.png
+   :align: right
+   :alt: facebook
+   :target: http://www.facebook.com/Quapps

@@ -20,14 +20,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),
+#         ('Python.org', 'http://python.org/'),
+#         ('Jinja2', 'http://jinja.pocoo.org/'),
+#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/quapps4kids'),
-          ('facebook-official', 'http://www.facebook.com/Quapps'),)
+#SOCIAL = (('twitter', 'http://twitter.com/quapps4kids'),
+#          ('facebook-official', 'http://www.facebook.com/Quapps'),)
 
 DEFAULT_PAGINATION = 4
 
@@ -39,13 +39,14 @@ PAGE_SAVE_AS = '{slug}.html'
 
 DIRECT_TEMPLATES = {}
 
-STATIC_PATHS = {'images', 'extra/CNAME'}
+STATIC_PATHS = {'images', 'css', 'extra/CNAME'}
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 THEME = '../pelican-themes/chameleon'
 BS3_URL = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'
-BS3_JS  = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'
-BS3_THEME = 'http://bootswatch.com/simplex/bootstrap.min.css'
+BS3_JS = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'
+BS3_THEME = 'http://bootswatch.com/united/bootstrap.min.css'
+CSS_OVERWRITE = '/css/quapps.css'
 
 MENUITEMS = [
     ('Home', '/'),
