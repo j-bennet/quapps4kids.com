@@ -52,5 +52,10 @@ MENUITEMS = [
     ('Home', '/'),
     ('How to', '/howto.html'),
     ('Apps', '/apps.html'),
-    ('Contact us', '/contact.html'),
+    ('Contact us', [('Twitter', 'http://twitter.com/quapps4kids'),
+                    ('Facebook', 'http://www.facebook.com/Quapps'),
+                    ('Gmail', ('https://mail.google.com/mail/?view=cm&fs=1&'
+                               'to=admin@quapps4kids.com&su=Question&'
+                               'body=Dear%20Quapps4Kids,')),
+                    ('Email', 'mailto:admin@quapps4kids.com')]),
 ]
