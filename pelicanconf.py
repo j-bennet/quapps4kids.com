@@ -55,7 +55,15 @@ MENUITEMS = [
     ('Contact us', [('Twitter', 'http://twitter.com/quapps4kids'),
                     ('Facebook', 'http://www.facebook.com/Quapps'),
                     ('Gmail', ('https://mail.google.com/mail/?view=cm&fs=1&'
-                               'to=admin@quapps4kids.com&su=Question&'
+                               'to=admin%40quapps4kids.com&su=Question&'
                                'body=Dear%20Quapps4Kids,')),
+                    ('Yahoo mail',
+                     ('http://compose.mail.yahoo.com/?'
+                      'to=admin%40quapps4kids.com&subj=Question&'
+                      'body=Dear%20Quapps4Kids,')),
+                    ('Hotmail, Outlook, Live',
+                     ('https://mail.live.com/default.aspx?rru=compose&'
+                      'to=admin%40quapps4kids.com&subject=Question&'
+                      'body=Dear%20Quapps4Kids,')),
                     ('Email', 'mailto:admin@quapps4kids.com')]),
 ]
